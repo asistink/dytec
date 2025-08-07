@@ -4,4 +4,4 @@ db = SQLAlchemy()
 
 
 class Config:
-  SQLALCHEMY_DATABASE_URI = "postgresql://postgres:postgres@localhost:5432/dytec"
+  SQLALCHEMY_DATABASE_URI = "postgresql://postgres:dysec123@localhost:5432/dytec"
